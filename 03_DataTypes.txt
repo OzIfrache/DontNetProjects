@@ -1,0 +1,17 @@
+* Basic Types 
+* Arrays Types
+* var and object 
+* Nullable Types
+* Loops And List Operations
+* List Arrow Function
+* Parse and convert Types
+- Enums
+- Tupples
+------------------------------
+OOP 
+ - Class
+ - Objects
+ - Inheritance
+
+
+

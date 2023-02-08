@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demos.HackerU", "Demos.HackerU\Demos.HackerU.csproj", "{6CE1E037-DD63-4E89-B110-87F95F7B6D83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassWork", "ClassWork", "{914B7465-A048-411A-A0E1-89911B4BE6AE}"
+	ProjectSection(SolutionItems) = preProject
+		00_DotNetOverview.txt = 00_DotNetOverview.txt
+		01_ClassesAndNamspaces_Projects.txt = 01_ClassesAndNamspaces_Projects.txt
+		02_Strings.txt = 02_Strings.txt
+		03_DataTypes.txt = 03_DataTypes.txt
+		04_Class_And _Objects.txt = 04_Class_And _Objects.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork", "HomeWork", "{B7CB4032-3EAC-4211-9478-A993E8448A2D}"
+	ProjectSection(SolutionItems) = preProject
+		HW_01.txt = HW_01.txt
+		HW_02.txt = HW_02.txt
+		HW_03.txt = HW_03.txt
+		HW_04.txt = HW_04.txt
+		HW_05.txt = HW_05.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demos.HackerU.CommonTypes", "Demos.HackerU.CommonTypes\Demos.HackerU.CommonTypes.csproj", "{C16CF0BD-9ADF-458E-80A6-93440052F322}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demos.HackerU.HomeWorks", "Demos.HackerU.HomeWorks\Demos.HackerU.HomeWorks.csproj", "{24549533-2758-4C4D-B424-EF4A3734A709}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demos.HackerU.Wpf", "Demos.HackerU.Wpf\Demos.HackerU.Wpf.csproj", "{DF0DFAF5-7392-43AA-849F-6A7CE5563AFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demos.HackerU.OOP", "Demos.HackerU.OOP\Demos.HackerU.OOP.csproj", "{A4E021EE-7F2F-477E-B67A-3DA306373FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CE1E037-DD63-4E89-B110-87F95F7B6D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE1E037-DD63-4E89-B110-87F95F7B6D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE1E037-DD63-4E89-B110-87F95F7B6D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE1E037-DD63-4E89-B110-87F95F7B6D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16CF0BD-9ADF-458E-80A6-93440052F322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16CF0BD-9ADF-458E-80A6-93440052F322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16CF0BD-9ADF-458E-80A6-93440052F322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16CF0BD-9ADF-458E-80A6-93440052F322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24549533-2758-4C4D-B424-EF4A3734A709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24549533-2758-4C4D-B424-EF4A3734A709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24549533-2758-4C4D-B424-EF4A3734A709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24549533-2758-4C4D-B424-EF4A3734A709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0DFAF5-7392-43AA-849F-6A7CE5563AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0DFAF5-7392-43AA-849F-6A7CE5563AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0DFAF5-7392-43AA-849F-6A7CE5563AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0DFAF5-7392-43AA-849F-6A7CE5563AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E021EE-7F2F-477E-B67A-3DA306373FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E021EE-7F2F-477E-B67A-3DA306373FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E021EE-7F2F-477E-B67A-3DA306373FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E021EE-7F2F-477E-B67A-3DA306373FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3508EA1-C98B-442C-B50F-97CC5D7F4F6F}
+	EndGlobalSection
+EndGlobal
